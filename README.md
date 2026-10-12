@@ -1,4 +1,4 @@
-<img align="right" width="140" src="./AI Engineer GitHub Portfolio Banner.png" alt="Aennam Vinay Kumar" />
+<img  width="140" src="./AI Engineer GitHub Portfolio Banner.png" alt="Aennam Vinay Kumar" />
 
 
 # Hi, I'm Aennam Vinay Kumar 👋
