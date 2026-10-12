@@ -1,5 +1,6 @@
-<img  width="140" src="./AI Engineer GitHub Portfolio Banner.png" alt="Aennam Vinay Kumar" />
-
+<p align="center">
+  <img src="./AI Engineer GitHub Portfolio Banner.png" alt="Aennam Vinay Kumar — Machine Learning and AI Engineer" width="100%" />
+</p>
 
 # Hi, I'm Aennam Vinay Kumar 👋
 
